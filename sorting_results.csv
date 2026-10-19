@@ -1,0 +1,25 @@
+Size,Input Type,Algorithm,Comparisons,Time (ms)
+100,Sorted,Insertion Sort,99,0.0165
+100,Sorted,Quick Sort,658,0.1926
+100,Reverse,Insertion Sort,4950,0.6105
+100,Reverse,Quick Sort,589,0.1235
+100,Random,Insertion Sort,2707,0.4291
+100,Random,Quick Sort,581,0.1405
+1000,Sorted,Insertion Sort,999,0.1606
+1000,Sorted,Quick Sort,11804,2.0898
+1000,Reverse,Insertion Sort,499500,72.8374
+1000,Reverse,Quick Sort,10853,2.2151
+1000,Random,Insertion Sort,255047,36.0175
+1000,Random,Quick Sort,10180,2.0497
+5000,Sorted,Insertion Sort,4999,0.8575
+5000,Sorted,Quick Sort,71309,12.428
+5000,Reverse,Insertion Sort,12497500,1909.2976
+5000,Reverse,Quick Sort,70998,12.7971
+5000,Random,Insertion Sort,6241511,974.4693
+5000,Random,Quick Sort,73105,13.6633
+10000,Sorted,Insertion Sort,9999,1.7447
+10000,Sorted,Quick Sort,165386,28.0359
+10000,Reverse,Insertion Sort,49995000,9193.7239
+10000,Reverse,Quick Sort,157976,27.4479
+10000,Random,Insertion Sort,24919182,3988.5053
+10000,Random,Quick Sort,160405,29.0494
